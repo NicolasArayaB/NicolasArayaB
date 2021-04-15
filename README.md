@@ -1,4 +1,4 @@
-![Image text](https://raw.githubusercontent.com/NicolasArayaB/NicolasArayaB/main/logo.png)
+![Image text](https://raw.githubusercontent.com/NicolasArayaB/NicolasArayaB/main/logo-nico.png)
 
 ## Are you looking for a dedicated and passionate **Jr. Full Stack Develop** who's eager to learn keep learning?
 
