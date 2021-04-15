@@ -1,10 +1,6 @@
 ![Image text](https://raw.githubusercontent.com/NicolasArayaB/NicolasArayaB/main/logo.png)
 
-## Do you want to know more about me?
+## Are you looking for a dedicated and passionate **Jr. Full Stack Develop** who's eager to learn keep learning?
 
-:eyes: [LinkedIn](https://www.linkedin.com/in/nicolasarayab/)
-
-## Are you looking for a dedicated and passionate Jr. Full Stack Develop who's eager to learn keep learning?
-
-:e-mail: <nicolasaraya@gmail.com>
+You can go to my :eyes: [LinkedIn](https://www.linkedin.com/in/nicolasarayab/) profile or just send me a message to :e-mail: <nicolasaraya@gmail.com>
 
