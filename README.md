@@ -1,8 +1,13 @@
 ![Image text](https://raw.githubusercontent.com/NicolasArayaB/NicolasArayaB/main/logo-nico.png)
 
-## Are you looking for a dedicated and passionate **Jr. Full Stack Develop** who's eager to keep learning?
+<h1 align='center'>Welcome!</h1>
 
-You can go to my :eyes: [LinkedIn](https://www.linkedin.com/in/nicolasarayab/) profile or just send me a message to :e-mail: <nicolasaraya@gmail.com>
+[![Linkedin Badge](https://img.shields.io/badge/-nicolasarayab-black?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasarayab/)](https://www.linkedin.com/in/nicolasarayab/)
+[![Gmail Badge](https://img.shields.io/badge/-nicolasaraya@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasaraya@gmail.com)](mailto:asterp04@gmail.com)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NicolasArayaB&show_icons=true&theme=highcontrast)
+## I love working with
+* People
+* RoR
+* Javascript
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArayaB&layout=compact&bg_color=000&text_color=fff&title_color=e6f00f">
