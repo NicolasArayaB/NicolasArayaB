@@ -2,8 +2,14 @@
 
 <h1 align='center'>Welcome!</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-nicolasarayab-black?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasarayab/)](https://www.linkedin.com/in/nicolasarayab/)
-[![Gmail Badge](https://img.shields.io/badge/-nicolasaraya@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasaraya@gmail.com)](mailto:asterp04@gmail.com)
+<div align='center'>
+  <a href='https://www.linkedin.com/in/nicolasarayab/'>
+    <img src='https://img.shields.io/badge/-nicolasarayab-black?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasarayab/'>
+  </a>
+  <a href='mailto:nicolasaraya@gmail.com'>
+    <img src='https://img.shields.io/badge/-nicolasaraya@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasaraya@gmail.com'>
+  </a>
+</div>
 
 ## I love working with
 * People
