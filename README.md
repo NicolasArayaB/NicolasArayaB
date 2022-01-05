@@ -9,6 +9,7 @@
 * People
 * RoR
 * Javascript
+* Music
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArayaB&layout=compact&bg_color=000&text_color=fff&title_color=e6f00f">
 
@@ -20,4 +21,7 @@
 
 ## Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=NicolasArayaB&show_icons=true&theme=highcontrast">
+
+## Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12132380500&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
